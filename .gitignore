@@ -1,2 +1,6 @@
 out/*
 !c.dat
+
+results/plots/*
+!results/data
+
